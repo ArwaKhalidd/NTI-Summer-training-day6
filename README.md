@@ -6,7 +6,7 @@ An interactive, responsive restaurant menu built with **HTML**, **CSS**, and **J
 
 ## 🚀 Live Demo  
 👉 [View Live Project](
-*(Replace the link with your actual deployed site)*
+*(https://arwakhalidd.github.io/NTI-Summer-training-day6/)*
 
 ---
 
